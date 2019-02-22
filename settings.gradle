@@ -1,0 +1,1 @@
+include ':demo', ':mvp', ':mvp-compiler', ':mvp-annotations'
